@@ -27,7 +27,7 @@ Skybox - Demian
 
 Building:
 
-git clone
+git clone git@github.com:LukaFilipovic471/matf-rg-project.git
 
 Position your terminal to path/to/my/project
 
