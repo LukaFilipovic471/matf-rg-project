@@ -1,2 +1,6 @@
 # matf-rg-project
-Uputstvo za koriscenje
+Instructions:
+W - move forward
+S - move backward
+A - move left
+D - move right
