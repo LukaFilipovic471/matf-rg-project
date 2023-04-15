@@ -26,10 +26,13 @@ Trees - DjMaesen
 Skybox - Demian
 
 Building:
+
 git clone
+
 Position your terminal to path/to/my/project
-git submodule update --init --recursive
-install dependencies
+
 CLion -> Open -> path/to/my/project
+
 Main function in src/main.cpp
+
 ALT+SHIFT+F10 -> project_base -> run
