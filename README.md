@@ -1,5 +1,5 @@
 # matf-rg-project
-Instructions:
+Instructions for movement into project:
 
 W - move forward
 
@@ -18,3 +18,18 @@ F - face culling front (of skybox)
 B - face culling back (of skybox)
 
 1 - draw imGui
+
+Sources:
+
+Trees - DjMaesen
+
+Skybox - Demian
+
+Building:
+git clone
+Position your terminal to path/to/my/project
+git submodule update --init --recursive
+install dependencies
+CLion -> Open -> path/to/my/project
+Main function in src/main.cpp
+ALT+SHIFT+F10 -> project_base -> run
