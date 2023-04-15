@@ -1,5 +1,5 @@
 # matf-rg-project
-Instructions for movement into project:
+Key instructions:
 
 W - move forward
 
@@ -18,6 +18,8 @@ F - face culling front (of skybox)
 B - face culling back (of skybox)
 
 1 - draw imGui
+
+SPACE - Blinn-Phong lighting
 
 Sources:
 
