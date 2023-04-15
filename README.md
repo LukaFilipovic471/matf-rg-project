@@ -13,4 +13,8 @@ Q - parallax mapping decrease
 
 E - parallax mapping increase
 
+F - face culling front (of skybox)
 
+B - face culling back (of skybox)
+
+1 - draw imGui
