@@ -1,4 +1,7 @@
 # matf-rg-project
+
+Link to yt-video: https://youtu.be/iTm3n-mZF3o
+
 Key instructions:
 
 W - move forward
